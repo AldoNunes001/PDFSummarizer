@@ -208,3 +208,9 @@ pip-selfcheck.json
 
 .vscode/
 # End of https://www.toptal.com/developers/gitignore/api/python,venv,text
+
+.streamlit/
+files/
+static/
+main_v1.py
+utils_BKP.py
